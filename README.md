@@ -69,6 +69,7 @@ This section encapsulates the essence of our project's evaluation phase, providi
 ## Contributors
 
 - Ankith Reddy Avula [@avulaankith](https://github.com/avulaankith)
+- Ganesh Gupta
 - Prem Kumar Rohan
 - Manogna Shashidhara
 
